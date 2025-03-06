@@ -796,5 +796,9 @@
         <h2 style="color: #d6336c;">Conclusion</h2>
         <p>The <strong>Percentage Calculator</strong> is a useful tool for students, business professionals, and shoppers. It simplifies percentage calculations and ensures accuracy in financial and mathematical tasks.</p>
 
+         <p style="text-align: center; font-size: 14px; color: #555; margin-top: 20px;">
+            &copy; 2025 <a href="https://www.calculator360.info" style="color: #d6336c; text-decoration: none;" target="_blank" rel="dofollow">Calculator360.info</a>. All Rights Reserved.
+        </p>
+
 </body>
 </html>
