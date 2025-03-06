@@ -1,6 +1,7 @@
 
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="mwRQOEoPFQB5qbFBednixwzcwTUBGvKhv5N0qBA8E1Y" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Percentage Calculator</title>
