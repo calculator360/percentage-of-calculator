@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Percentage Calculator</title>
+    <title>Percentage Calculator</title>
     <style>
         :root {
             --primary: #4a6fa5;
@@ -285,7 +285,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="app-title">Advanced Percentage Calculator</h1>
+        <h1 class="app-title">Percentage Calculator</h1>
         
         <div class="calculator-tabs">
             <button class="tab-button active" data-tab="basic">Basic Percentage</button>
