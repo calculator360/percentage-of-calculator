@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | My Website</title>
+   
    <style>
         :root {
             --brand-color: #6A50EF;
@@ -101,7 +108,8 @@
             box-shadow: 0 0 0 0.25rem rgba(106, 80, 239, 0.25);
         }
     </style>
-
+</head>
+<body>
     <div class="container calc-container">
         <h1 class="text-center mb-4">
             <i class="bi bi-calculator"></i> Percentage Calculator
@@ -676,3 +684,5 @@
             calculationHistory.innerHTML = '';
         }
     </script>
+</body>
+</html>
