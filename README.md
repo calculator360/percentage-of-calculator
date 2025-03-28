@@ -766,7 +766,12 @@
         });
     </script>
 
-    <br><br>
+    <br>
+    <div class="footer">
+    <p>&copy; <script>document.write(new Date().getFullYear())</script> Mini web Tool. All Rights Reserved. | 
+    Powered by <a href="https://www.miniwebtool.live/" target="_blank">MiniWebTool</a></p>
+</div>
+    <br>
      <p>Calculating percentages is essential in various fields, such as finance, education, and shopping. A <strong>Percentage Calculator</strong> makes it easy to find percentages, percentage increases or decreases, and discounts without manual calculations.</p>
 
         <h2 style="color: #d6336c;">What is a Percentage Calculator?</h2>
